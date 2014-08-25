@@ -1,4 +1,4 @@
-# Application - Petstore Java EE 7
+# Application - Petstore Java EE 7 + glassfish
 
 * *Author* : [Antonio Goncalves](http://www.antoniogoncalves.org)
 * *Level* : Intermediate
