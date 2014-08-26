@@ -7,7 +7,7 @@
     <artifactId>petstoreee7</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
-    <name>Petstore application using Java EE 7</name>
+    <name>Petstore application using Java EE 7.1</name>
 
     <properties>
         <version.java>1.7</version.java>
